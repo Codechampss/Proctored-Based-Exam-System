@@ -1,5 +1,4 @@
 click
-dlib
 face-recognition
 face-recognition-models
 Flask
@@ -20,4 +19,5 @@ six
 Werkzeug
 WTForms
 gunicorn
+ffmpeg libsm6 libxext6
 opencv-python
