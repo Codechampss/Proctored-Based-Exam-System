@@ -19,3 +19,4 @@ pymongo
 six
 Werkzeug
 WTForms
+gunicorn
